@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\L1\\Backend\\Dotnet\\WebApi\\MicroServices\\LibraryManagement\\LibraryMicroservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF742B2A-B273-4A6D-B31D-624A81DCA5B9}|EmployeeServices\\EmployeeServices.csproj|d:\\training\\l1\\backend\\dotnet\\webapi\\microservices\\librarymanagement\\librarymicroservices\\employeeservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF742B2A-B273-4A6D-B31D-624A81DCA5B9}|EmployeeServices\\EmployeeServices.csproj|solutionrelative:employeeservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E795B7-AD0F-4A2D-B659-3FA86506A82E}|ApiGateway\\ApiGateway.csproj|d:\\training\\l1\\backend\\dotnet\\webapi\\microservices\\librarymanagement\\librarymicroservices\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E795B7-AD0F-4A2D-B659-3FA86506A82E}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF742B2A-B273-4A6D-B31D-624A81DCA5B9}|EmployeeServices\\EmployeeServices.csproj|d:\\training\\l1\\backend\\dotnet\\webapi\\microservices\\librarymanagement\\librarymicroservices\\employeeservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF742B2A-B273-4A6D-B31D-624A81DCA5B9}|EmployeeServices\\EmployeeServices.csproj|solutionrelative:employeeservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF742B2A-B273-4A6D-B31D-624A81DCA5B9}|EmployeeServices\\EmployeeServices.csproj|d:\\training\\l1\\backend\\dotnet\\webapi\\microservices\\librarymanagement\\librarymicroservices\\employeeservices\\controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF742B2A-B273-4A6D-B31D-624A81DCA5B9}|EmployeeServices\\EmployeeServices.csproj|solutionrelative:employeeservices\\controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E795B7-AD0F-4A2D-B659-3FA86506A82E}|ApiGateway\\ApiGateway.csproj|d:\\training\\l1\\backend\\dotnet\\webapi\\microservices\\librarymanagement\\librarymicroservices\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6E795B7-AD0F-4A2D-B659-3FA86506A82E}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E795B7-AD0F-4A2D-B659-3FA86506A82E}|ApiGateway\\ApiGateway.csproj|d:\\training\\l1\\backend\\dotnet\\webapi\\microservices\\librarymanagement\\librarymicroservices\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6E795B7-AD0F-4A2D-B659-3FA86506A82E}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 307,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Training\\L1\\Backend\\Dotnet\\WebApi\\MicroServices\\LibraryManagement\\LibraryMicroservices\\EmployeeServices\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeServices\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Training\\L1\\Backend\\Dotnet\\WebApi\\MicroServices\\LibraryManagement\\LibraryMicroservices\\EmployeeServices\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeServices\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T04:24:36.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Training\\L1\\Backend\\Dotnet\\WebApi\\MicroServices\\LibraryManagement\\LibraryMicroservices\\EmployeeServices\\Controller\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeServices\\Controller\\EmployeeController.cs",
+              "ToolTip": "D:\\Training\\L1\\Backend\\Dotnet\\WebApi\\MicroServices\\LibraryManagement\\LibraryMicroservices\\EmployeeServices\\Controller\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeServices\\Controller\\EmployeeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA2wEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T04:19:26.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\L1\\Backend\\Dotnet\\WebApi\\MicroServices\\LibraryManagement\\LibraryMicroservices\\EmployeeServices\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeServices\\Program.cs",
+              "ToolTip": "D:\\Training\\L1\\Backend\\Dotnet\\WebApi\\MicroServices\\LibraryManagement\\LibraryMicroservices\\EmployeeServices\\Program.cs",
+              "RelativeToolTip": "EmployeeServices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T04:19:13.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\L1\\Backend\\Dotnet\\WebApi\\MicroServices\\LibraryManagement\\LibraryMicroservices\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "D:\\Training\\L1\\Backend\\Dotnet\\WebApi\\MicroServices\\LibraryManagement\\LibraryMicroservices\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T04:18:53.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Training\\L1\\Backend\\Dotnet\\WebApi\\MicroServices\\LibraryManagement\\LibraryMicroservices\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Training\\L1\\Backend\\Dotnet\\WebApi\\MicroServices\\LibraryManagement\\LibraryMicroservices\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T03:44:17.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "D:\\Training\\L1\\Backend\\Dotnet\\WebApi\\MicroServices\\LibraryManagement\\LibraryMicroservices\\ApiGateway\\Ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateway\\Ocelot.json",
+              "ToolTip": "D:\\Training\\L1\\Backend\\Dotnet\\WebApi\\MicroServices\\LibraryManagement\\LibraryMicroservices\\ApiGateway\\Ocelot.json",
+              "RelativeToolTip": "ApiGateway\\Ocelot.json",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T03:28:07.142Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
